@@ -10,5 +10,5 @@
 Разница в том, что git fetch подтягивает изменения 
 git pull = git fetch + git merge
 
-* **git commit** --amend
+* **git commit --amend** 
 Присоединения новых изменений в предыдущий коммит.
